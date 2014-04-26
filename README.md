@@ -7,7 +7,7 @@ common icons
 ------------
 (done: 13px,18px,24px,40px size)
 
-1. share ![share](svg/share.svg?raw=true)
+1. share
 2. user
 3. favorite
 4. attachment
